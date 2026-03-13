@@ -33,13 +33,7 @@ Built using **Next.js** and **Google Gemini API**.
 npm install
 ```
 
-3. Add your API key in `.env`
-
-```
-GEMINI_API_KEY=your_api_key_here
-```
-
-4. Run the project
+3. Run the project
 
 ```bash
 npm run dev
